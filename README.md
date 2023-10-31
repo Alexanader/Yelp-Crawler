@@ -20,3 +20,10 @@ You can install the dependencies using pip:
 ```bash
 pip install requests
 pip install beautifulsoup4
+```
+
+To start script
+
+```bash
+python yelp_crawler.py
+```
